@@ -18,4 +18,4 @@
 
 
 TOKEN = 'TOKEN'
-BOTAN_TOKEN = ''  # Optional: Add a botan.io token if you want bot statistics
+BOTAN_TOKEN = 458157959:AAHdBnwRLIQQ62TcA7a88T8DX7XF85PxQBA  # Optional: Add a botan.io token if you want bot statistics
